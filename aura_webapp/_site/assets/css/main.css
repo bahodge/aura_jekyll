@@ -4161,3 +4161,7 @@ body.is-mobile.landing #footer {
     }
 
 }
+
+a {
+    scroll-behavior: smooth;
+}
